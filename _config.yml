@@ -57,7 +57,7 @@ collections:
     output: true
     feature_text: |
       Weekly Updates
-    feature_image: "hhttps://picsum.photos/2560/600?image=543"
+    feature_image: "https://picsum.photos/2560/600?image=543"
 
 # 6. Jekyll collections settings
 defaults:
