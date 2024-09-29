@@ -82,9 +82,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Cataloging Book Arts at UW Libraries" # Site name or title, also used in jekyll-seo-tag
+title: "Learning to Catalog at UW Libraries" # Site name or title, also used in jekyll-seo-tag
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "An online repository for documenting my Winter 2024 Directed Fieldwork experience." # Site description and default description, also used in jekyll-seo-tag
+description: "An online repository for documenting my Fall 2024 Directed Fieldwork experience." # Site description and default description, also used in jekyll-seo-tag
 url: "https://cspayne.github.io/fall2024dfw" # Site url, also used in jekyll-seo-tag
 baseurl: "/fall2024dfw"
 repo: "https://github.com/cspayne/fall2024dfw"
