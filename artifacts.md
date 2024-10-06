@@ -9,7 +9,7 @@ aside: true
 ---
 
 # ETDs
-- [Predictors of higher education participation for students with a specific learning disability: a secondary data analysis of high school students in Washington State / Brendon K. Taga](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/981519192_etd.pdf)
+- [Predictors of higher education participation for students with a specific learning disability: a secondary data analysis of high school students in Washington State / Brendon K. Taga]()
 
 # Name Authority Records
 
