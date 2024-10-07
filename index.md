@@ -5,4 +5,4 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=161"
 ---
 
-In Fall quarter 2024, as an MLIS student at the University of Washington, I did directed fieldwork supervised by the head of monographic cataloging at the University of Washington libraries. This website serves as a repository for this experience, including my learning outcomes, artifacts, and a weekly blog that I kept during this time. 
+In Fall 2024, as an MLIS student at the University of Washington, I will complete a quarter of Directed Fieldwork supervised by the Head of Monographic Cataloging at the University of Washington libraries. This website serves as a repository for this experience, including my learning outcomes, artifacts, and a weekly blog that I will keep during this time. 
