@@ -16,10 +16,11 @@ Benjamin Aaronson](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/N
 # Name Authority Records
 
 - [Taga, Brendon K.](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/NAFs/no2024107202_new.pdf) (new)
-- [Aaronson, Benjamin (1984-)](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/NAFs/no2024110391_new.pdf) (new)
+- [Aaronson, Benjamin 1984-](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/NAFs/no2024110391_new.pdf) (new)
 
 # Wikidata Items
 - [Brendon K. Taga (Q130375139)](http://www.wikidata.org/entity/Q130375139) - [last revision](https://www.wikidata.org/w/index.php?title=Q130375139&oldid=2257128087)
+- [Benjamin Aaronson (Q130444154)](http://www.wikidata.org/entity/Q130444154) - [last revision](https://www.wikidata.org/w/index.php?title=Q130444154&oldid=2258805721)
 
 # Sound Recordings
 
