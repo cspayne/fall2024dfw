@@ -9,9 +9,10 @@ aside: true
 ---
 
 # ETDs
-- [Predictors of higher education participation for students with a specific learning disability: a secondary data analysis of high school students in Washington State / Brendon K. Taga](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/NAFs/981519192.pdf)
+- [Predictors of higher education participation for students with a specific learning disability: a secondary data analysis of high school students in Washington State / Brendon K. Taga](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/981519192.pdf)
 - [The Impact of early comprehensive intervention on the mirror neuron system in autism spectrum disorders /
-Benjamin Aaronson](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/NAFs/981515721.pdf)
+Benjamin Aaronson](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/981515721)
+- [Research methodology selection of women faculty in the social sciences / Tiffany Jeanette Brown](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/946445850.pdf)
 
 # Name Authority Records
 
