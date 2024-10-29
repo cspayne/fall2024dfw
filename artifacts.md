@@ -14,7 +14,7 @@ aside: true
 Benjamin Aaronson](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/981515721)
 - [Research methodology selection of women faculty in the social sciences / Tiffany Jeanette Brown](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/946445850.pdf)
 - [Parent-to-parent peer support and family quality of life / Holly Ann Patton](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/981511212.pdf)
--[Does course design impact student engagement and/or student outcomes at community colleges? an empirical test of a web-based, student-centered learning design strategy / Lawrence Angel](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/946445886.pdf)
+- [Does course design impact student engagement and/or student outcomes at community colleges? an empirical test of a web-based, student-centered learning design strategy / Lawrence Angel](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/ETDs/946445886.pdf)
 
 # Name Authority Records
 
