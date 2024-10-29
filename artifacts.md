@@ -26,7 +26,7 @@ Benjamin Aaronson](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/E
 - [Brendon K. Taga (Q130375139)](http://www.wikidata.org/entity/Q130375139) (new) - [last revision](https://www.wikidata.org/w/index.php?title=Q130375139&oldid=2257128087)
 - [Benjamin Aaronson (Q130444154)](http://www.wikidata.org/entity/Q130444154) (new) - [last revision](https://www.wikidata.org/w/index.php?title=Q130444154&oldid=2258805721)
 - [Raphael A. Bernier (Q57639673)](http://www.wikidata.org/entity/Q57639673) (enhanced) - [last revision](https://www.wikidata.org/w/index.php?title=Q57639673&oldid=2263806645)
-- [University of Washington Autism Center (Q130468740)](http://www.wikidata.org/entity/Q130468740) (new) - [last revision](http://www.wikidata.org/entity/Q130468740)
+- [University of Washington Autism Center (Q130468740)](http://www.wikidata.org/entity/Q130468740) (new) - [last revision](https://www.wikidata.org/w/index.php?title=Q130468740&oldid=2264986949)
 - [University of Washington Institute on Human Development and Disability (Q99463125)](http://www.wikidata.org/entity/Q99463125) (enhanced) - [last revision](https://www.wikidata.org/w/index.php?title=Q99463125&oldid=2258836522)
 
 # Sound Recordings
