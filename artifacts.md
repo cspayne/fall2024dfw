@@ -28,6 +28,9 @@ Benjamin Aaronson](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/E
 - [Raphael A. Bernier (Q57639673)](http://www.wikidata.org/entity/Q57639673) (enhanced) - [last revision](https://www.wikidata.org/w/index.php?title=Q57639673&oldid=2263806645)
 - [University of Washington Autism Center (Q130468740)](http://www.wikidata.org/entity/Q130468740) (new) - [last revision](https://www.wikidata.org/w/index.php?title=Q130468740&oldid=2264986949)
 - [University of Washington Institute on Human Development and Disability (Q99463125)](http://www.wikidata.org/entity/Q99463125) (enhanced) - [last revision](https://www.wikidata.org/w/index.php?title=Q99463125&oldid=2258836522)
+- [Holly Ann Patton (Q130613857)](http://www.wikidata.org/entity/Q130613857) (new) - [last revision](https://www.wikidata.org/w/index.php?title=Q130613857&oldid=2268501610)
+-  [Lawrence Angel (Q130719422)](http://www.wikidata.org/entity/Q130719422) (new) - [last revision](https://www.wikidata.org/w/index.php?title=Q130719422&oldid=2268501137)
+
 
 # Sound Recordings
 
