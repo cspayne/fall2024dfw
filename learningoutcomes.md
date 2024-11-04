@@ -17,12 +17,12 @@ aside: true
 ## 2. Learn Electronic Theses & Dissertations cataloging. 
 **Tasks:** Learn to do authority work for students and faculty. Practice subject analysis for ETDs. Learn how to read LCSH authority records. Consider DEI while doing subject analysis and authority work.
 
-**Outcomes:** Finished records for 25 titles. 
+**Outcomes:** 25 finished bibliographic and name authority records. 
 
 ## 3. Learn how to use Wikidata.
 **Tasks:** Create items for people and possibly subjects. Consider DEI in creation of items describing people.
 
-**Outcomes:** At least 30 Wikidata items for students and faculty members.
+**Outcomes:** At least 25 Wikidata items for students and faculty members.
 
 ## 4. Learn sound recording cataloging.
 **Tasks:** Catalog CDs and LPs for popular music. Learn a non-book format with new MARC fields and RDA concepts. Consider DEI while doing subject analysis and authority work.
