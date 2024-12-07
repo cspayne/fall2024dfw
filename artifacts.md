@@ -21,6 +21,14 @@ aside: true
 - [Yuck](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/696112082_enhanced.pdf)
 - [Falling in love (is hard on the knees) ; Fall together / Aerosmith](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/741626939_enhanced.pdf)
 - [Dead set / Grateful Dead](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/18407893_enhanced.pdf)
+- [Want to exit this ergastulum? / Broken Lock](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/1473348865_new.pdf)
+- [Locksley Hall](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/1473349202_new.pdf)
+- [Set your goats on fire! / Sutton Street Massacre](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/1473349525_new.pdf)
+- [New millenium disco party : the divas](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/43570946_enhanced.pdf)
+- [Femmes! / Les Femmes d'Enfer](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/1295639061_new.pdf)
+- [Nowhere : music from the Gregg Araki movie](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/36654330_enhanced.pdf)
+- [Too drunk to folk / Alder St. All-Stars](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/1475643227_new.pdf)
+- [Dreams of mangoes / Colorworks](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/sound_recordings/1475643529_new.pdf)
 
 # Name Authority Records
 
@@ -29,6 +37,7 @@ aside: true
 - [Bernier, Raphael A.](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/NAFs/no2005038308_enhanced.pdf) (enhanced)
 - [Nerad, Maresi](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/NAFs/n83212720_enhanced.pdf) 
 (enhanced)
+- [Gibson, Julia, 1968-](https://github.com/cspayne/fall2024dfw/blob/main/_artifacts/NAFs/no2024135230_new.pdf)
 
 # Wikidata Items
 
