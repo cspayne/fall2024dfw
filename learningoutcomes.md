@@ -31,5 +31,6 @@ aside: true
 
 ## 5. Learn to catalog an archival collection.
 **Tasks:** Learn the workflow of archival cataloging. Learn how the workflow and cataloging of archival cataloging differs from traditional cataloging.
+
 **Outcomes:** 2 finished records.
 
